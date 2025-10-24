@@ -2,6 +2,7 @@
 
 Universitātes projekts, kas demonstrē mākslīgā intelekta pielietojumu spēlēs, izmantojot **Minimax** un **Alpha-Beta pruning** algoritmus.  
 Spēle veidota kā **Windows Forms** aplikācija ar interaktīvu lietotāja saskarni.
+![Spēles ekrānuzņēmums](screenshot.png)
 
 ## 🎯 Mērķis
 Izstrādāt spēli, kas:
